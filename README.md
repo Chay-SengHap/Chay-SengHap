@@ -136,11 +136,6 @@ An offline music player focused on local audio management, playlists, and a clea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chay-SengHap&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chay-SengHap&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most used languages" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Chay-SengHap&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub streak" />
 
