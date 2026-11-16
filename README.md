@@ -85,7 +85,7 @@ Research project focused on digitizing printed Khmer literature using Optical Ch
 
 **Tech:** React - Express · PostgreSQL
 
-[View Repository](https://github.com/Chay-SengHap/GameDev-MidTerm-Project](https://github.com/Chay-SengHap/OCR-for-LLM-Pre-Training-Capstone-Year-3.git))
+[View Repository](https://github.com/Chay-SengHap/OCR-for-LLM-Pre-Training-Capstone-Year-3)
 
 </td>
 <td width="50%" valign="top">
