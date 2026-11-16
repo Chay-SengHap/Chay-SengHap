@@ -87,6 +87,7 @@ Research project focused on digitizing printed Khmer literature using Optical Ch
 
 [View Repository](https://github.com/Chay-SengHap/OCR-for-LLM-Pre-Training-Capstone-Year-3)
 
+
 </td>
 <td width="50%" valign="top">
 
@@ -98,21 +99,24 @@ A 3D delivery game featuring an interactive city, scooter driving, timed deliver
 
 [View Repository](https://github.com/Chay-SengHap/GameDev-MidTerm-Project)
 
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
+
 ### TverCV
 
-A career development platform designed to help users build resumes, explore job opportunities, and prepare for interviews.
+An AI-powered CV builder that helps users create professional resumes without needing design skills or experience with complex tools. Features an easy-to-use interface and AI-powered text enhancement to improve CV content.
 
-**Tech:** React · Express · MySql
+**Tech:** React · Node.js · Express · Google AI Studio
 
 [View Repository](https://github.com/Chay-SengHap/TverCV)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### TuneVault
@@ -120,7 +124,7 @@ A career development platform designed to help users build resumes, explore job 
 An offline music player focused on local audio management, playlists, and a clean listening experience.
 
 **Tech:** Flutter · Dart
-
+[View Repository](https://github.com/LySrongchhay/TuneVault.git)
 
 </td>
 </tr>
