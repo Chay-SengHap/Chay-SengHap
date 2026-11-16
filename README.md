@@ -161,9 +161,11 @@ A responsive grocery shopping website that makes browsing fresh produce, explori
 
 I'm always interested in learning, collaborating, and building new things.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=vercel&logoColor=white)](https://senghab-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white)](mailto:senghap.chay@student.cadt.edu.kh)
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chay-SengHap)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://senghab-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:senghap.chay@student.cadt.edu.kh)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Chay-SengHap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](YOUR_LINKEDIN_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Senghabb)
 
 <br>
 
