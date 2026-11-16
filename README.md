@@ -43,7 +43,7 @@ Currently exploring new technologies, building practical projects, and improving
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,dart&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp,dart,java&theme=dark" alt="Programming languages" />
 
 <br><br>
 
@@ -59,7 +59,7 @@ Currently exploring new technologies, building practical projects, and improving
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,prisma,supabase&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,prisma,supabase&theme=dark" alt="Backend and database technologies" />
 
 <br><br>
 
@@ -67,7 +67,7 @@ Currently exploring new technologies, building practical projects, and improving
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,vercel,cloudflare&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,vercel,cloudflare,render&theme=dark" alt="Development tools" />
 
 </div>
 
@@ -83,7 +83,9 @@ Currently exploring new technologies, building practical projects, and improving
 
 Research project focused on digitizing printed Khmer literature using Optical Character Recognition to improve Khmer language resources for AI.
 
-**Tech:** Python · OCR · PostgreSQL
+**Tech:** React - Express · PostgreSQL
+
+[View Repository](https://github.com/Chay-SengHap/GameDev-MidTerm-Project](https://github.com/Chay-SengHap/OCR-for-LLM-Pre-Training-Capstone-Year-3.git))
 
 </td>
 <td width="50%" valign="top">
@@ -102,11 +104,13 @@ A 3D delivery game featuring an interactive city, scooter driving, timed deliver
 <tr>
 <td width="50%" valign="top">
 
-### Careerly
+### TverCV
 
 A career development platform designed to help users build resumes, explore job opportunities, and prepare for interviews.
 
-**Tech:** React · Node.js · Express
+**Tech:** React · Express · MySql
+
+[View Repository](https://github.com/Chay-SengHap/TverCV)
 
 </td>
 <td width="50%" valign="top">
@@ -116,6 +120,7 @@ A career development platform designed to help users build resumes, explore job 
 An offline music player focused on local audio management, playlists, and a clean listening experience.
 
 **Tech:** Flutter · Dart
+
 
 </td>
 </tr>
