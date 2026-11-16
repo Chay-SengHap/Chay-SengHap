@@ -65,11 +65,9 @@ Currently exploring new technologies, building practical projects, and improving
 
 **Tools & Platforms**
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,vercel,cloudflare,render&theme=dark" alt="Development tools" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,vercel,cloudflare&theme=dark" alt="Git, GitHub, VS Code, Figma, Unity, Vercel, and Cloudflare" />
+</p>
 
 <br>
 
