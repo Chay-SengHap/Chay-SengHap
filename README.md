@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Seng Hab
+# Chay SengHap
 
 **Software Engineering Student · Full-Stack Developer · UI/UX Enthusiast**
 
