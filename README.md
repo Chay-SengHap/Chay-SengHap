@@ -7,7 +7,7 @@
 
 *Building thoughtful digital experiences, one project at a time.*
 
-📍 Phnom Penh, Cambodia
+Phnom Penh, Cambodia
 
 <br>
 
@@ -43,7 +43,7 @@ Currently exploring new technologies, building practical projects, and improving
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp,dart,java&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp,dart,java&theme=dark" alt="JavaScript, Python, C, C++, Dart, and Java" />
 
 <br><br>
 
@@ -119,12 +119,15 @@ An AI-powered CV builder that helps users create professional resumes without ne
 
 <td width="50%" valign="top">
 
-### TuneVault
+### Phsa Digital
 
-An offline music player focused on local audio management, playlists, and a clean listening experience.
+A responsive grocery shopping website that makes browsing fresh produce, exploring healthy and budget-friendly meal sets, and managing a shopping cart simple.
 
-**Tech:** Flutter · Dart
-[View Repository](https://github.com/LySrongchhay/TuneVault.git)
+**Tech:** HTML · Tailwind CSS · JavaScript
+
+[View Repository](https://github.com/Chay-SengHap/Year2_WebDesign_Project_PhsaDigital)
+
+</td>
 
 </td>
 </tr>
